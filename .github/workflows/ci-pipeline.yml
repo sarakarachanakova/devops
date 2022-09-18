@@ -40,5 +40,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-#           push: true
+          push: true
           tags: sarakarachanakova/form-example:latest
